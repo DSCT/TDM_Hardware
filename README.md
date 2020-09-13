@@ -1,5 +1,5 @@
-# TDM_Hardware
-Controlling the hardware of common-path tomographic diffractive microscopy
+# cTDM_Hardware
+Controlling the hardware of common-path tomographic diffractive microscopy (cTDM)
 
 ## Hardware
 * CMOS camera: Vieworks VC-12MX-M/C 180
