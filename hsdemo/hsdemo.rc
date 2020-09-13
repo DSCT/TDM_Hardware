@@ -1,0 +1,149 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.K.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENG)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_UK
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON1               ICON                    "ASL.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,2,5,0
+ PRODUCTVERSION 1,2,5,0
+ FILEFLAGSMASK 0x17L
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x0L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080904b0"
+        BEGIN
+            VALUE "CompanyName", "Active Silicon"
+            VALUE "FileDescription", "hsdemo"
+            VALUE "FileVersion", "1, 2, 5, 0"
+            VALUE "InternalName", "hsdemo"
+            VALUE "LegalCopyright", "Copyright (C) 2013"
+            VALUE "OriginalFilename", "hsdemo.rc"
+            VALUE "ProductName", "hsdemo"
+            VALUE "ProductVersion", "1, 2, 5, 0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x809, 1200
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// PCF
+//
+
+IDR_PCF_ASL_TEST_MODULE       PCF                     "Active_Silicon_Test_Module.pcf"
+IDR_PCF_AVT_BONITO_CL_400B    PCF                     "AVT_Bonito_CL_400B.pcf"
+IDR_PCF_CAMERA_LINK           PCF                     "Camera_Link.pcf"
+IDR_PCF_DREAMPACT             PCF                     "Dreampact.pcf"
+IDR_PCF_E2V_ELIIXA_PLUS       PCF                     "E2V_ELiiXA_Plus_16K_CXP.pcf"
+IDR_PCF_E2V_ELIIXA_PLUS_COLOR PCF                     "E2V_ELiiXA_Plus_8K_CXP_Color.pcf"
+IDR_PCF_IOINDUSTRIES_4M140    PCF                     "IOIndustries_Flare_4M140_CCX.pcf"
+IDR_PCF_IMPERX                PCF                     "Imperx_ICX-B0610M-KC000_CXP.pcf"
+IDR_PCF_ISVI_C25_CXP          PCF                     "ISVI_IC_C25CXP.pcf"
+IDR_PCF_ISVI_M25_CXP          PCF                     "ISVI_IC_M25CXP.pcf"
+IDR_PCF_JAI_SP_5000M_CXP      PCF                     "JAI_SP_5000M_CXP.pcf"
+IDR_PCF_MIKROTRON             PCF                     "Mikrotron_MC4086_CXP.pcf"
+IDR_PCF_NED_XCM80160          PCF                     "NED_XCM80160_CXP.pcf"
+IDR_PCF_OPAL_2000C            PCF                     "Adimec_Opal_2000c_CXP.pcf"
+IDR_PCF_OPAL_2000M            PCF                     "Adimec_Opal_2000m_CXP.pcf"
+IDR_PCF_OPTRONIS_CL4000       PCF                     "Optronis_CL4000_CXP.pcf"
+IDR_PCF_OPTRONIS_CL25000      PCF                     "Optronis_CL25000_CXP.pcf"
+IDR_PCF_QS_4A70               PCF                     "Adimec_Qs-4A70.pcf"
+IDR_PCF_QUARTZ_4A180m         PCF                     "Adimec_Quartz_Q-4A180m_CXP.pcf"
+IDR_PCF_SAPPHIRE              PCF                     "Adimec_Sapphire.pcf"
+IDR_PCF_SENSOR2IMAGE          PCF                     "Sensor2Image.pcf"
+IDR_PCF_SONY                  PCF                     "Sony_FCB_H11.pcf"
+IDR_PCF_TELI                  PCF                     "Toshiba_Teli.pcf"
+IDR_PCF_VIEWORKS              PCF                     "Vieworks.pcf"
+IDR_PCF_VIEWORKS1024          PCF                     "Vieworks-1024.pcf"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// IMAGES
+//
+
+IDR_IMAGES_ASL_LOGO     IMAGES                  "..\\resources\\AslLogo_big.tif"
+#endif    // English (U.K.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
